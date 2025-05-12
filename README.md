@@ -107,7 +107,7 @@ Eje X: Tamaño del arreglo.
 
 Eje Y: Tiempo de ejecución (en segundos).
 
-![Figuras](figuras.png)
+![Figure_1](https://github.com/user-attachments/assets/ca88af35-f71c-4875-a335-4bd24de4c79a)
 
 
 ##  CONCLUCIONES CON TERMINOLOGIA DE NOTACION 
