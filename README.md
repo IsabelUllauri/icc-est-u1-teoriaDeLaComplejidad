@@ -28,7 +28,7 @@ Se realiza una medición del tiempo de ejecución de cada algoritmo utilizando `
 
 ## 🚀 Ejecución
 
-`python app.py`
+`python3 app.py`
 
 ---
 
